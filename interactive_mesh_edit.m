@@ -28,9 +28,9 @@ function [x, y, tri] = interactive_mesh_edit(x0, y0, tri0)
 %
 %% Tips
 % Three modes are available:
-%       1) MOVE Mode: hold down the mouse left to drag the selected node
-%       2) ADD Mode: double-click the mouse left to add a new node
-%       3) DELETE Mode: double-click the mouse left to delete the selected node
+%       1) MOVE Mode (shortcut key:1): hold down the mouse left to drag the selected node
+%       2) ADD Mode (shortcut key:2): double-click the mouse left to add a new node
+%       3) DELETE Mode (shortcut key:3): double-click the mouse left to delete the selected node
 %
 % It's recommened to activate a basemap first before editing, the basemap
 % can be DEM or coastline map.
