@@ -2,10 +2,10 @@ function [x, y, tri] = interactive_mesh_edit(x0, y0, tri0)
 % Interactive mesh editing tool for unstructured grids
 %
 %% Syntax
-% [x, y, tri] = interactive_mesh_edit3(x0, y0, tri0)
+% [x, y, tri] = interactive_mesh_edit(x0, y0, tri0)
 %
 %% Description
-% [x, y, tri] = interactive_mesh_edit3(x0, y0, tri0) edits the unstructured grid.
+% [x, y, tri] = interactive_mesh_edit(x0, y0, tri0) edits the unstructured grid.
 %
 %% Examples 
 % 
